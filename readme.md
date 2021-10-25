@@ -2,7 +2,7 @@
 
 I just developed this module just because I like the [**Pastep**](https://pastep.com) site !
 
-## Installing
+##  Installing
 ```
 npm i pastep-info
 ```
