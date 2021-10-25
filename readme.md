@@ -1,6 +1,6 @@
 # Hello there , 👋
 
-I just developed this module just because I like the [**Pastep**](https://pastep.com) site !
+I just  developed this module just because I like the [**Pastep**](https://pastep.com) site !
 
 ##  Installing
 ```
