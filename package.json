@@ -1,0 +1,17 @@
+{
+  "name": "pastep-info",
+  "version": "1.0.4",
+  "description": "the package for pastep information",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pastep"
+  ],
+  "author": "https://github.com/Kermit-hastam/",
+  "license": "ISC"
+}
