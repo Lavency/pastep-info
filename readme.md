@@ -28,9 +28,7 @@ test()
 ```
 
 ## Support
- - **[Discord Server](https://discord.gg/MHFTKe6g29)**
- - **[Instagram]( https://www.instagram.com/kermit_hastam/)**
- - **[GITHUB](https://github.com/Kermit-hastam)**
+ - **[GITHUB](https://github.com/poki-dev0)**
 
 ****
-> ***Developed With ♥ by Kermit Xaro***
+> ***Developed With ♥ by Poki***
