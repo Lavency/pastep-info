@@ -31,4 +31,4 @@ test()
  - **[GITHUB](https://github.com/poki-dev0)**
 
 ****
-> ***Developed With ♥ by ! ◮ 𝐋𝐚𝐯𝐞𝐧𝐜𝐲 ᴛᴡɪɢ#1989***
+> ***Developed With ♥ by ਬ Kermit_Xaro#2222***
